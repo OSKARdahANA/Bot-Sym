@@ -1,1 +1,2 @@
-# Bot-Sym
+# mykingbot
+King Bot
